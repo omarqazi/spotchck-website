@@ -1,3 +1,35 @@
 body {
-    background-color : purple;
+    background-color : #102857;
+}
+
+img.logo-image {
+    width : 400px;
+}
+
+div.logo-container {
+    width : 400px;
+    margin : auto;
+}
+
+h2 {
+    color : #3592d5;
+    text-align : center;
+    margin-top : 30px;
+    margin-bottom : 40px;
+}
+
+p {
+    color :  white;
+    width : 400px;
+    text-align : center;
+    margin : auto;
+    font-size : 1.2em;
+}
+
+div#mc_embed_signup {
+    font-family : 'proxima-nova' !important;
+}
+h4 {
+    text-align : center;
+    font-family : 'proxima-nova' !important;
 }
